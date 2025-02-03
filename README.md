@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @HaiderSaeedKhan
 - 🔹 Contributed to [Big Data E-commerce Pipeline](https://github.com/TK-474/BigDataAnalytics-Project)
+- 🔹 Contributed to [Point of Sale CRUD application](https://github.com/ShehzadAslamOza/point-of-sale). Note: Code was sent to repository owner to push
